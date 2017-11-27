@@ -53,5 +53,4 @@ public class CoffeeMachine extends  StateMachine {
             return "20";
         return null;
     }
-    
 }
